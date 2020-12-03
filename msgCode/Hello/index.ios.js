@@ -22,10 +22,6 @@ export default class Hello extends Component {
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
         </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
       </View>
     );
   }
